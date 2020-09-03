@@ -1,3 +1,5 @@
 Apple
 Grapes
 orange
+Mangoes
+Oranges
