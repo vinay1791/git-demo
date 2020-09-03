@@ -1,2 +1,4 @@
 Apple
 Grapes
+Mangoes
+Oranges
